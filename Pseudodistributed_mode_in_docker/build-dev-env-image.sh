@@ -1,0 +1,1 @@
+docker build -t hadoop-build-1000 .
